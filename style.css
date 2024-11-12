@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+
+}
+
+.box-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+
+.box {
+    height: 10rem;
+    width: 10rem;
+    border: 5px solid black;
+    margin: 2.3rem;
+    border-radius: 1.5rem;
+
+
+}
+
+.red {
+    background-color: rgb(227, 30, 155);
+}
+
+.green {
+    background-color: rgb(6, 149, 193)
+}
+
+.yellow {
+    background-color: rgb(223, 125, 7);
+}
+
+.blue {
+    background-color: rgba(51, 51, 179, 0.825);
+}
+
+@media (max-width:490px) {
+    .box {
+        height: 7rem;
+        width: 7rem;
+    }
+
+
+}
+
+@media (max-width:375px) {
+    .seclinecon {
+        margin-top: -3rem;
+    }
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
+
+.son {
+    color: red;
+    position: relative;
+    top: 2.7px;
+    font-size: 28px;
+}
+
+span {
+
+    margin-left: 5px;
+}
