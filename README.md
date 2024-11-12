@@ -1,7 +1,7 @@
 # SImon_says_game
 It is memory boosting and attractive game that I have created using frontend technologies like - HTML5, CSS3, JavaScript . Game is more interesting and more popular that anyone can play itself or in his/her group and can maximize his memory power.
 
-#Deployment Link
+# Deployment Link
 https://satyamrai455.github.io/SImon_says_game/
 
 # How To Play ?
